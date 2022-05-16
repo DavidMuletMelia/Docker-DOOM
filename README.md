@@ -11,7 +11,7 @@
 
 - Creamos 2 contenedores con el comando `for i in {1..2} ; do docker run -d -t ubuntu:14.04; done`
 
-[Img contenedores](https://github.com/DavidMuletMelia/Docker-DOOM/blob/main/doom/1.PNG)
+![img](https://github.com/DavidMuletMelia/Docker-DOOM/blob/main/doom/1.PNG)
 
 [img contenedores](https://github.com/DavidMuletMelia/Docker-DOOM/blob/main/doom/2.PNG)
 
