@@ -34,6 +34,6 @@
 
 - Si todo ha ido bien, ya deberiamos ver y poder jugar a este clasico de Id Software
 
-![img doom](https://github.com/DavidMuletMelia/Docker-DOOM/blob/main/doom/5.PNG)
+![img doom](https://github.com/DavidMuletMelia/Docker-DOOM/blob/main/doom/6.PNG)
 
 
