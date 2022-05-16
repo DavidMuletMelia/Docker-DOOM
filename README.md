@@ -13,10 +13,11 @@
 
 [img contenedores]()
 
-- Descomprimimos le archivo descargado anteriormente con el comando `./dockerdoomd`
--
+- Descomprimimos el archivo descargado anteriormente con el comando `tar xzvf dockerdoomd.tar.gz`
+
 [img descompresion]()
 
+- Por ultimo ejecutamos el archivo con el comando `./dockerdoomd`
 
 ## - VNC -
 
