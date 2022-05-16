@@ -11,11 +11,13 @@
 
 - Creamos 2 contenedores con el comando `for i in {1..2} ; do docker run -d -t ubuntu:14.04; done`
 
-[img contenedores]()
+[img contenedores](https://github.com/DavidMuletMelia/Docker-DOOM/blob/main/doom/1.PNG)
+
+[img contenedores](https://github.com/DavidMuletMelia/Docker-DOOM/blob/main/doom/2.PNG)
 
 - Descomprimimos el archivo descargado anteriormente con el comando `tar xzvf dockerdoomd.tar.gz`
 
-[img descompresion]()
+[img descompresion](https://github.com/DavidMuletMelia/Docker-DOOM/blob/main/doom/3.PNG)
 
 - Por ultimo ejecutamos el archivo con el comando `./dockerdoomd`
 
@@ -23,7 +25,7 @@
 
 - Para conectarnos al juego necesitamos un cliente VNC, para ello he usado el programa 'Remmina'
 
-[img remmina]()
+[img remmina](https://github.com/DavidMuletMelia/Docker-DOOM/blob/main/doom/4.PNG)
 
 - Nos conectamos por el puerto `5900` y con la contrasña `1234`
 
