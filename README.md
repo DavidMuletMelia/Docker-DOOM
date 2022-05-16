@@ -3,7 +3,7 @@
 ## - PASOS PREVIOS -
 
 - Antes de empezar a usar 'Docker' necesitamos descargar el archivo necesario para poder ejecutar el `Doom`
-- Teniendo en cuenta que el archivo subido originalmente ya no esta disponible, debemos buscar un [mirror (https://web.archive.org/web/20160310005603/https://gideonred.com/bins/dockerdoomd.tar.gz) de la página
+- Teniendo en cuenta que el archivo subido originalmente ya no esta disponible, debemos buscar un [mirror] (https://web.archive.org/web/20160310005603/https://gideonred.com/bins/dockerdoomd.tar.gz) de la página
 
 
 
